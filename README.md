@@ -8,6 +8,4 @@ maintenance test 2, data accessibility test, scalability test. It is evident tha
 grows linearly with the size of data. We also made performance optimizations on some queries,
 which reduced their runtime by an order of magnitude of a thousand times. Then we presented
 and analyzed the results of our experiments in figures and charts with data visualization.
-All the results are almost in line with our intuition about the size of the data, i.e., the larger the
-scale factor, the more resources are needed on the system. Runtimes vary from query to query,
-depending on the query complexity and the backend processes of the system. 
+
